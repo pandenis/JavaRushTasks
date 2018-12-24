@@ -207,3 +207,20 @@ java.lang.IllegalArgumentException: maxThreads must be >=1 but got: 0
 2018-12-23 16:36:13 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
 2018-12-23 16:37:13 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
 2018-12-23 16:38:13 INFO  ApacheHttpClient.sendEvent(523) - responseCode = 200
+2018-12-23 16:42:27 INFO  JavaRushTasksProjectComponent.projectOpened(68) - ---------- Project JavaRushTasks opened ----------
+2018-12-23 16:42:27 INFO  JavaRushTasksProjectComponent.projectOpened(69) - ---------- Version 3.23 ----------
+
+2018-12-23 16:42:27 INFO  ApacheHttpClient.createAsyncHttpClient(132) - Выбрано 1 прокси. Тип : DIRECT
+2018-12-23 16:42:27 INFO  ApacheHttpClient.<init>(90) - ApacheHttpClient проинстанциирован успешно.
+2018-12-23 16:42:27 INFO  ApacheHttpClient.testConnection(190) - responseCode = 200
+2018-12-23 16:42:27 INFO  ApacheHttpClient.testConnection(201) - result = true
+2018-12-23 16:42:28 INFO  ApacheHttpClient.login(231) - Ожидание ответа сервера.
+2018-12-23 16:42:28 INFO  ApacheHttpClient.login(235) - responseCode = 200
+2018-12-23 16:42:28 INFO  ApacheHttpClient.login(266) - JSESSIONID OK
+2018-12-23 16:42:28 INFO  ApacheHttpClient.refreshUserInfo(294) - responseCode = 200
+2018-12-23 16:42:28 INFO  ApacheHttpClient.refreshUserInfo(300) - Информация о пользователе получена.
+2018-12-23 16:42:28 INFO  ApacheHttpClient.startGA(31) - GAService запущен.
+2018-12-23 16:42:28 WARN  JavaRushUtil.isProjectStructureCorrect(350) - Структура проекта невалидная.
+2018-12-23 16:43:21 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
+2018-12-23 16:43:21 WARN  JavaRushUtil.isProjectStructureCorrect(350) - Структура проекта невалидная.
+2018-12-23 16:43:27 INFO  ApacheHttpClient.getWebResourceAsStream(490) - responseCode = 200
